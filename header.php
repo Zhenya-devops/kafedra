@@ -36,6 +36,12 @@
       <li class="nav-item">
         <a class="nav-link" href="create_shtat_rasp.php">Добавить расписание</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index_discip.php">Дисциплины</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="create_discip.php">Добавить дисциплину</a>
+      </li>
       
       
     </ul>
